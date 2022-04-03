@@ -1,7 +1,6 @@
 # Kickstarting with Excel
-An Analysis of Kickstarter Campaigns. 
 
-## Challenge 1 Excel Analysis for Crowfunding
+## Overview of Project
 
 ### Purpose
 
