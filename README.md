@@ -2,9 +2,9 @@
 
 ## Overview of Project
 
-### Purpose
+### Analyze fundraising campaigns for plays according to their release dates and funding goals
 
-## Analysis and Challenges
+## Analysis and Challenges: 
 
 ### Analysis of Outcomes Based on Launch Date
 
