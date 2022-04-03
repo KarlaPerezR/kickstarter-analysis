@@ -7,6 +7,7 @@
 ## Analysis and Challenges: 
 
 ### Analysis of Outcomes Based on Launch Date
+#### The Campaigns
 ![Outcomes_Date](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
