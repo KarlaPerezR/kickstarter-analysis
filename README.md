@@ -19,11 +19,11 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-#### en Mayo se tienen las obras más existosas
-#### mientras que de oct a dic hay una tendencia a la baja en la obras cexitosas 
+<br/> en Mayo se tienen las obras más existosas
+<br/>mientras que de oct a dic hay una tendencia a la baja en la obras cexitosas 
 
 - What can you conclude about the Outcomes based on Goals?
-la mayoría de las obras existosas estan relacionado a tamaños de metas pequeños (menores a 5,000), mientras que las obras con las metas más altas del mercado (45,000 en adelante) tienen un alto porcentaje mayor al 88% de fracasos 
+<br/>la mayoría de las obras existosas estan relacionado a tamaños de metas pequeños (menores a 5,000), mientras que las obras con las metas más altas del mercado (45,000 en adelante) tienen un alto porcentaje mayor al 88% de fracasos 
 para tener exito una obra debe de estar en un rango menor a los 5,000
 
 - What are some limitations of this dataset?
