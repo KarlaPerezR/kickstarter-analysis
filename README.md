@@ -1,12 +1,6 @@
-# kickstarter-analysis
-Challenge 1 Excel Analysis for Crowfunding
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-# Kickstarting with Excel
+# An Analysis of Kickstarter Campaigns. Kickstarting with Excel
 
-## Overview of Project
+## Challenge 1 Excel Analysis for Crowfunding
 
 ### Purpose
 
