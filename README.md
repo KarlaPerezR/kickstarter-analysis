@@ -27,5 +27,10 @@
 para tener exito una obra debe de estar en un rango menor a los 5,000
 
 - What are some limitations of this dataset?
+Currency, tipo de cambio no indicado
+el formato del Deadline y Launched_At en Unix Timestamps
+información desacutualizada, lo más actual es del 2017
 
 - What are some other possible tables and/or graphs that we could create?
+Yes, we can compare the years more successful
+also filter by the countrys of interest
