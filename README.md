@@ -23,7 +23,7 @@ To group a date Field in months, I used to deleted from "Rows" the options "Año
 <br/> ![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
 
 #### The translate of the Formula COUNTIFS los rangos de filtros
-I struggle a little with the Formula of =COUNTIFS() because I have Excel in the Spanish version so at the beggining I was using the Formula =CONTAR.SI, but I saw that the video on Canvas has a diferente Syntaxis. I founded the correct one, =CONTAR.SI.CONJUNTO() in [Soporte de Microsoft](https://support.microsoft.com/es-es/office/funci%C3%B3n-contar-si-conjunto-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
+I struggle a little with the Formula of =COUNTIFS() because I have Excel in the Spanish version so at the beggining I was using the Formula =CONTAR.SI, but I saw that the video on Canvas has a different Syntaxis and founded the correct one, =CONTAR.SI.CONJUNTO() also at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/funci%C3%B3n-contar-si-conjunto-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
 <br/> ![Formula](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Formula_COUNT.png)
 
 ## Results
