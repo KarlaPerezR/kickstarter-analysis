@@ -15,11 +15,13 @@
 
 ### Challenges and Difficulties Encountered
 
-#### How to group the date in Months
+#### How to group the date in Months in a Pivot Table
 
-To show a date Field in a Pivot Table, I used to deleted from "Rows" in the Fields of the Pivot Table Boxes "Años" and "Trimestres" so the Table Pivot could show Months
+To group a date Field in months, I used to deleted from "Rows" the options "Años" and "Trimestres" so the Table Pivot could show Months
 <br/>![Row _Options](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Row_date_Options.PNG)
-<br/> But I found a new and easier way to group the field "Date Created Conversion" for the Pivot table at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/agrupar-o-desagrupar-datos-en-una-tabla-din%C3%A1mica-c9d1ddd0-6580-47d1-82bc-c84a5a340725)
+<br/> But I found a new and easier way to group the field "Date Created Conversion" for the Pivot table at [Soporte de Microsoft]
+<br/>By a right clicking over a date in the Table Pivot, Excel shows the options to "Group" or even "Ungroup" 
+(https://support.microsoft.com/es-es/office/agrupar-o-desagrupar-datos-en-una-tabla-din%C3%A1mica-c9d1ddd0-6580-47d1-82bc-c84a5a340725)
 ![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
 
 #### La traducción de la formula, filtrar de acuerdo a las plays, los rangos de filtros
