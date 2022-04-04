@@ -40,16 +40,15 @@ This way of writting the formula make me doubt if the range was correct so I ver
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 <br/> Launch the play in May
-<br/> Do not launch a play in October
+<br/> Avoid the rest of the Year after May to launch a play and do not launched in October
 
 - What can you conclude about the Outcomes based on Goals?
 <br/>To have a successful play is recommended to be in a range of less than 5,000
 
 - What are some limitations of this dataset?
-Currency, tipo de cambio no indicado
-el formato del Deadline y Launched_At en Unix Timestamps
-información desacutualizada, lo más actual es del 2017
+The database has currencies from differents countries, so the data is not standardized.
+the format of the Columns "Deadline" and "Launched_At" is in Unix Timestamps format, so you need to convert it
+The information is not updated, the most recent is from 2017
 
 - What are some other possible tables and/or graphs that we could create?
-Yes, we can compare the years more successful
-also filter by the countrys of interest
+A graph to compare plays by countrys 
