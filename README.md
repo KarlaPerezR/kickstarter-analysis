@@ -46,9 +46,9 @@ This way of writting the formula make me doubt if the range was correct so I ver
 <br/>To have a successful play is recommended to be in a range of less than 5,000
 
 - What are some limitations of this dataset?
-<br/>The database has currencies from differents countries, so the data is not standardized.
-<br/>The format of the Columns "Deadline" and "Launched_At" is in Unix Timestamps format, so you need to convert it.
-<br/>The information is not updated, the most recent is from 2017.
+<br/>The database has currencies from differents countries, so the data is not standardized
+<br/>The format of the Columns "Deadline" and "Launched_At" is in Unix Timestamps format, so you need to convert it
+<br/>The information is not updated, the most recent is from 2017
 
 - What are some other possible tables and/or graphs that we could create?
-A graph to compare plays by countrys 
+<br/>A graph to compare plays by countrys 
