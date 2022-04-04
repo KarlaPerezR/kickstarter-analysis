@@ -17,9 +17,9 @@
 
 #### How to group the date in Months
 
-I used to deleted from the Fields of the Pivot Table
+To show a date Field in a Pivot Table, I used to deleted from "Rows" in the Fields of the Pivot Table Boxes "Años" and "Trimestres" so the Table Pivot could show Months
 <br/>![Row _Options](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Row_date_Options.PNG)
-<br/> But in I found a new way to group the field "Date Created Conversion" for the Pivot table at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/agrupar-o-desagrupar-datos-en-una-tabla-din%C3%A1mica-c9d1ddd0-6580-47d1-82bc-c84a5a340725)
+<br/> But I found a new and easier way to group the field "Date Created Conversion" for the Pivot table at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/agrupar-o-desagrupar-datos-en-una-tabla-din%C3%A1mica-c9d1ddd0-6580-47d1-82bc-c84a5a340725)
 ![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
 
 #### La traducción de la formula, filtrar de acuerdo a las plays, los rangos de filtros
