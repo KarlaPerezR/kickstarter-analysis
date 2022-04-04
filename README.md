@@ -7,8 +7,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-
+The plays that are most successful are in May, from this peak there is a downward behavior until the end of the year
+The plays that have failed the most have been in October.
+<br/><br/>
 ![Outcomes_Date](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
