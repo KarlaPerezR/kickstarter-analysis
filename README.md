@@ -15,16 +15,22 @@
 
 ### Challenges and Difficulties Encountered
 
-#### How to group the date in Months in a Pivot Table
+#### 1. How to group the date in Months in a Pivot Table
 
 To group a date Field in months, I used to deleted from "Rows" the options "Años" and "Trimestres" so the Table Pivot could show Months
 <br/>![Row _Options](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Row_date_Options.PNG)
 <br/> But I found a new and easier way to group the field "Date Created Conversion" for the Pivot table at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/agrupar-o-desagrupar-datos-en-una-tabla-din%C3%A1mica-c9d1ddd0-6580-47d1-82bc-c84a5a340725) by a right clicking over a date in the Table Pivot, Excel shows the options to "Group" or even "Ungroup"
 <br/> ![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
 
-#### The translate of the Formula COUNTIFS los rangos de filtros
+#### 2. The translate of the Formula COUNTIFS los rangos de filtros
 I struggle a little with the Formula of =COUNTIFS() because I have Excel in the Spanish version so at the beggining I was using the Formula =CONTAR.SI, but I saw that the video on Canvas has a different Syntaxis and founded the correct one, =CONTAR.SI.CONJUNTO() also at [Soporte de Microsoft](https://support.microsoft.com/es-es/office/funci%C3%B3n-contar-si-conjunto-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
 <br/> ![Formula](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Formula_COUNT.png)
+
+#### 3. The range for the Formula COUNTIFS
+I write the formula of the Ranges using the value above the Requested range,p.e. I used "<20000" for the Range 15000 to 19999 instead that the option ">=1999".
+This kind of writting the formula make me doubt if the range was correct so I verified the counts with the filters manually in the sheet "Kickstarter" in the future I will match the formula with the value in the range to avoid doubting.
+<br/> ![Ranges](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Ranges.PNG)
+
 
 ## Results
 
