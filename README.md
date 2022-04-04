@@ -12,7 +12,7 @@
 ![Outcomes_Date](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Most of the successful works are related to small goal sizes (less than 5,000), while the works with the highest goals in the market (45,000 and up) have a high percentage greater than 88% of failures to succeed. must be in a range less than 5,000
+Most of the successful works are related to small goal sizes (less than 5,000), while the works with the highest goals in the market (45,000 and up) have a high percentage greater than 88% of failures to succeed. must be in a range less than 5,000.<br/>
 ![Outcomes_Goals](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
