@@ -15,7 +15,7 @@
 
 ### Challenges and Difficulties Encountered
 
-####How to group the date in Months
+#### How to group the date in Months
 I found a new way to group the field "Date Created Conversion" for the Pivot table
 ![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
 I used to deleted from the Fields of the Pivot Table
