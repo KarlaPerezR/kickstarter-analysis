@@ -14,6 +14,13 @@
 ![Outcomes_Goals](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+
+####How to group the date in Months
+I found a new way to group the field "Date Created Conversion" for the Pivot table
+![Group_monthly](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Group_Monthly.PNG)
+I used to deleted from the Fields of the Pivot Table
+![Row _Options](https://github.com/KarlaPerezR/kickstarter-analysis/blob/main/resources/Row_date_Options.PNG)
+
 #### La traducción de la formula, filtrar de acuerdo a las plays, los rangos de filtros
 
 ## Results
