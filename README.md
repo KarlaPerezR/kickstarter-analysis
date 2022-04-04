@@ -39,12 +39,11 @@ This way of writting the formula make me doubt if the range was correct so I ver
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-<br/> en Mayo se tienen las obras más existosas
-<br/>mientras que de oct a dic hay una tendencia a la baja en la obras cexitosas 
+<br/> Launch the play in May
+<br/> Do not launch a play in October
 
 - What can you conclude about the Outcomes based on Goals?
-<br/>la mayoría de las obras existosas estan relacionado a tamaños de metas pequeños (menores a 5,000), mientras que las obras con las metas más altas del mercado (45,000 en adelante) tienen un alto porcentaje mayor al 88% de fracasos 
-para tener exito una obra debe de estar en un rango menor a los 5,000
+<br/>To have a successful play is recommended to be in a range of less than 5,000
 
 - What are some limitations of this dataset?
 Currency, tipo de cambio no indicado
